@@ -22,7 +22,7 @@ Counterfeit products can damage a brand's reputation and lead to financial losse
 1. Clone the repository:
     ```bash
     git clone https://github.com/harvey-jean/pro-auth-api.git
-    cd product-authentication-api
+    cd pro-auth-api
     ```
 
 2. Install dependencies:
